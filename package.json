@@ -1,0 +1,22 @@
+{
+    "name": "vscode-duotone-dark-sea",
+    "displayName": "DuoTone Dark Sea",
+    "description": "Dark Sea",
+    "version": "0.0.1",
+    "publisher": "sallar",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DuoTone Dark Sea",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DuoToneDarkSea.tmTheme"
+            }
+        ]
+    }
+}
