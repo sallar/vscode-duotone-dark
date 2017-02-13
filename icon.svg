@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" fill-rule="nonzero">
+            <circle id="Oval" fill="#414042" cx="60" cy="60" r="60"></circle>
+            <g id="Group" transform="translate(15.000000, 14.000000)">
+                <path d="M65.7,86.1 C59.5,89.4 52.5,91.2 45,91.2 C20.2,91.2 0.2,71 0.2,46 C0.2,21 20.2,0.8 45,0.8 C69.8,0.8 89.8,21 89.8,46 C89.8,48.9 89.5,51.8 89,54.5 C86.6,64.7 80,63.1 80,63.1 C80,63.1 71,58.8 64.3,64 C60,67.3 63,78.5 65.7,86.1 Z M54.1,74.4 C54.1,71.2 51.5,68.6 48.3,68.6 C45.1,68.6 42.5,71.2 42.5,74.4 C42.5,77.6 45.1,80.2 48.3,80.2 C51.5,80.2 54.1,77.6 54.1,74.4 Z" id="Shape" fill="#000000"></path>
+                <circle id="Oval" fill="#42675A" cx="24.1" cy="60" r="10.7"></circle>
+                <circle id="Oval" fill="#32AE85" cx="20.6" cy="32.8" r="10.7"></circle>
+                <circle id="Oval" fill="#34FEBB" cx="45" cy="18.2" r="10.7"></circle>
+                <circle id="Oval" fill="#444C55" cx="69.5" cy="31.8" r="10.7"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

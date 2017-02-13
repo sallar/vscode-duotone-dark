@@ -2,7 +2,7 @@
     "name": "vscode-duotone-dark-sea",
     "displayName": "DuoTone Dark Sea",
     "description": "Dark Sea",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "sallar",
     "engines": {
         "vscode": "^1.5.0"
@@ -10,6 +10,11 @@
     "categories": [
         "Themes"
     ],
+    "icon": "icon.svg",
+    "galleryBanner": {
+        "color": "#34FEBB",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
@@ -18,5 +23,12 @@
                 "path": "./themes/DuoToneDarkSea.tmTheme"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sallar/vscode-duotone-dark-sea.git"
+    },
+    "homepage": "https://github.com/sallar/vscode-duotone-dark-sea#readme",
+    "license": "MIT",
+    "author": "Sallar Kaboli <sallar.kaboli@gmail.com>"
 }
