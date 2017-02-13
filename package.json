@@ -12,7 +12,7 @@
     ],
     "icon": "icon.svg",
     "galleryBanner": {
-        "color": "#34FEBB",
+        "color": "#444C55",
         "theme": "dark"
     },
     "contributes": {

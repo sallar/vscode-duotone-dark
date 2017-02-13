@@ -2,10 +2,8 @@
 
 Based on the great [DuoTone Dark Sea for Atom](https://github.com/simurai/duotone-dark-sea-syntax) by [Simurai](https://github.com/simurai). Built for Visual Studio Code.
 
-![](screenshot.png)
+![](https://raw.githubusercontent.com/sallar/vscode-duotone-dark-sea/master/screenshot.png)
 
 ## Installation
 
 This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=sallar.vscode-duotone-dark-sea).
-
-
