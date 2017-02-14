@@ -105,7 +105,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#5d8cc0</string>
+				<string>#88b4e7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -129,7 +129,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F92672</string>
+				<string>#32AE85</string>
 			</dict>
 		</dict>
 		<dict>
@@ -160,6 +160,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Type Name</string>
+			<key>scope</key>
+			<string>entity.name.type,support.type</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#d6e9ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Inherited class</string>
 			<key>scope</key>
 			<string>entity.other.inherited-class</string>
@@ -168,7 +181,7 @@
 				<key>fontStyle</key>
 				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#D6E9FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -253,11 +266,11 @@
 			<key>name</key>
 			<string>Library class&#x2f;type</string>
 			<key>scope</key>
-			<string>support.type, support.class</string>
+			<string>support.class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6E88A6</string>
+				<string>#88b4e7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -333,7 +346,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#55606d</string>
+				<string>#444c55</string>
 			</dict>
 		</dict>
 		<dict>
@@ -356,6 +369,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#34FEBB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>this</string>
+			<key>scope</key>
+			<string>variable.language.this</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#5d8cc0</string>
 			</dict>
 		</dict>
 	</array>
