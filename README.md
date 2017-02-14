@@ -4,6 +4,10 @@ Based on the great [DuoTone Dark Sea for Atom](https://github.com/simurai/duoton
 
 ![](https://raw.githubusercontent.com/sallar/vscode-duotone-dark/master/screenshot.png)
 
+## Installation
+
+This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=sallar.vscode-duotone-dark).
+
 ## Included Themes
 
 ### Dark Sea 
@@ -11,7 +15,3 @@ Based on the great [DuoTone Dark Sea for Atom](https://github.com/simurai/duoton
 ![](https://github.com/simurai/duotone-dark-sea-syntax/raw/master/docs/screenshot.png)
 
 *More coming soon...*
-
-## Installation
-
-This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=sallar.vscode-duotone-dark).
