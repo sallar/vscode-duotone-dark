@@ -48,5 +48,30 @@ module.exports = {
         "UUID": "D9D5E82E-3D5B-45B5-B38E-7C841C21347D",
         "ID": "duotone_dark_space",
         "NAME": "Space"
+    },
+    // https://github.com/simurai/duotone-dark-forest-syntax
+    "Forest": {
+        "UNO1": "#ddf8dd",
+        "UNO2": "#a9bca9",
+        "UNO3": "#869886",
+        "UNO4": "#738273",
+        "UNO5": "#585f58",
+
+        "DUO1": "#e7f98b",
+        "DUO2": "#99a659",
+        "DUO3": "#747a52",
+
+        "BACKGROUND": "#2a2d2a",
+        "INVISIBLES": "#424842",
+        "LINE_HIGHLIGHT": "#313531",
+        "SELECTION": "#474D47",
+        "INVALID": "#F8F8F0",
+        "INVALID_BG": "#F92672",
+        "DEPRECATED": "#F8F8F0",
+        "DEPRECATED_BG": "#AE81FF",
+
+        "UUID": "a71af099-8867-4bbd-a6da-f69871a36fca",
+        "ID": "duotone_dark_forest",
+        "NAME": "Forest"
     }
 }
