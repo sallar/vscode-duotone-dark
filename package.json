@@ -1,34 +1,45 @@
 {
-    "name": "vscode-duotone-dark",
-    "displayName": "DuoTone Dark Themes",
-    "description": "DuoTone Dark Themes for Visual Studio Code",
-    "version": "0.0.5",
-    "publisher": "sallar",
-    "engines": {
-        "vscode": "^1.5.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "icon": "icon.svg",
-    "galleryBanner": {
-        "color": "#444C55",
-        "theme": "dark"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "DuoTone Dark Sea",
-                "uiTheme": "vs-dark",
-                "path": "./themes/DuoToneDarkSea.tmTheme"
-            }
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/sallar/vscode-duotone-dark.git"
-    },
-    "homepage": "https://github.com/sallar/vscode-duotone-dark#readme",
-    "license": "MIT",
-    "author": "Sallar Kaboli <sallar.kaboli@gmail.com>"
+  "name": "vscode-duotone-dark",
+  "displayName": "DuoTone Dark Themes",
+  "description": "DuoTone Dark Themes for Visual Studio Code",
+  "version": "0.1.0",
+  "publisher": "sallar",
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "scripts": {
+    "build": "node ./src/build.js"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.svg",
+  "galleryBanner": {
+    "color": "#444C55",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "DuoTone Dark Sea",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sea.tmTheme"
+      },
+      {
+        "label": "DuoTone Dark Space",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Space.tmTheme"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sallar/vscode-duotone-dark.git"
+  },
+  "homepage": "https://github.com/sallar/vscode-duotone-dark#readme",
+  "license": "MIT",
+  "author": "Sallar Kaboli <sallar.kaboli@gmail.com>",
+  "devDependencies": {
+    "fs-extra": "^2.0.0"
+  }
 }
