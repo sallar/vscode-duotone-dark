@@ -10,12 +10,10 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
 
 ## Included Themes
 
-### Dark Sea 
-
 ![](https://github.com/simurai/duotone-dark-sea-syntax/raw/master/docs/screenshot.png)
 
-### Dark Space
-
 ![](https://github.com/simurai/duotone-dark-space-syntax/raw/master/docs/screenshot.png)
+
+![](https://github.com/simurai/duotone-dark-forest-syntax/raw/master/docs/screenshot.png)
 
 *More coming soon...*

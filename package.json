@@ -2,7 +2,7 @@
   "name": "vscode-duotone-dark",
   "displayName": "DuoTone Dark Themes",
   "description": "DuoTone Dark Themes for Visual Studio Code",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "publisher": "sallar",
   "engines": {
     "vscode": "^1.5.0"
