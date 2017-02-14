@@ -1,8 +1,8 @@
 {
-    "name": "vscode-duotone-dark-sea",
-    "displayName": "DuoTone Dark Sea",
-    "description": "Dark Sea",
-    "version": "0.0.2",
+    "name": "vscode-duotone-dark",
+    "displayName": "DuoTone Dark Themes",
+    "description": "DuoTone Dark Themes for Visual Studio Code",
+    "version": "0.0.4",
     "publisher": "sallar",
     "engines": {
         "vscode": "^1.5.0"
@@ -26,9 +26,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/sallar/vscode-duotone-dark-sea.git"
+        "url": "git+https://github.com/sallar/vscode-duotone-dark.git"
     },
-    "homepage": "https://github.com/sallar/vscode-duotone-dark-sea#readme",
+    "homepage": "https://github.com/sallar/vscode-duotone-dark#readme",
     "license": "MIT",
     "author": "Sallar Kaboli <sallar.kaboli@gmail.com>"
 }

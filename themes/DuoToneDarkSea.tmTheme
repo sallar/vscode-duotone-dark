@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+	Colors:
+	Taken from: https://github.com/simurai/duotone-dark-sea-syntax
+	---------------
+	uno-1: #d6e9ff
+	uno-2: #88b4e7
+	uno-3: #5d8cc0
+	uno-4: #586f89
+	uno-5: #444c55
+
+	duo-1: #34FEBB
+	duo-2: #32AE85
+	duo-3: #42675A
+	---------------
+-->
 <plist version="1.0">
 <dict>
 	<key>name</key>
@@ -12,9 +27,9 @@
 				<key>background</key>
 				<string>#1D262F</string>
 				<key>caret</key>
-				<string>#52FFC5</string>
+				<string>#34FEBB</string>
 				<key>foreground</key>
-				<string>#91C1F8</string>
+				<string>#88b4e7</string>
 				<key>invisibles</key>
 				<string>#303F4F</string>
 				<key>lineHighlight</key>
@@ -44,7 +59,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6EFDCD</string>
+				<string>#34FEBB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -55,7 +70,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#67FECC</string>
+				<string>#34FEBB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -66,31 +81,31 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6EFDCD</string>
+				<string>#34FEBB</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>User-defined constant</string>
 			<key>scope</key>
-			<string>constant.character, constant.other</string>
+			<string>constant.character, constant.other, variable.other.constant</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#67FECC</string>
+				<string>#34FEBB</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Variable</string>
 			<key>scope</key>
-			<string>variable</string>
+			<string>variable, support.other.variable</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#91C1F8</string>
+				<string>#5d8cc0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -101,7 +116,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#22D398</string>
+				<string>#32AE85</string>
 			</dict>
 		</dict>
 		<dict>
@@ -127,7 +142,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#6EFDCD</string>
+				<string>#34FEBB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -166,7 +181,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D7E9FE</string>
+				<string>#D6E9FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -179,7 +194,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#93C2F6</string>
+				<string>#5d8cc0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -205,7 +220,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#91C1F8</string>
+				<string>#88b4e7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -218,7 +233,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#d6e9ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -231,7 +246,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#34FEBB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -286,24 +301,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Support Function</string>
-			<key>scope</key>
-			<string>support.function,support.constant</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#6E88A6</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Punctuation Meta</string>
 			<key>scope</key>
 			<string>meta.brace,punctuation</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#55606D</string>
+				<string>#444c55</string>
 				<key>background</key>
 				<string></string>
 			</dict>
@@ -318,18 +322,7 @@
 				<key>fontStyle</key>
 				<string> italic</string>
 				<key>foreground</key>
-				<string>#485B55</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Support Constant</string>
-			<key>scope</key>
-			<string>support.constant</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#67FECC</string>
+				<string>#42675A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -341,6 +334,28 @@
 			<dict>
 				<key>foreground</key>
 				<string>#55606d</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Object Literal Key</string>
+			<key>scope</key>
+			<string>meta.object-literal.key</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#34FEBB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Import Block Meta</string>
+			<key>scope</key>
+			<string>variable.other.readwrite.alias</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#34FEBB</string>
 			</dict>
 		</dict>
 	</array>
