@@ -18,4 +18,4 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
 
 ![](https://github.com/simurai/duotone-dark-space-syntax/raw/master/docs/screenshot.png)
 
-* More coming soon... *
+*More coming soon...*
