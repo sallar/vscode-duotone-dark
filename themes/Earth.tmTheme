@@ -358,9 +358,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>this</string>
+			<string>Special Objects</string>
 			<key>scope</key>
-			<string>variable.language.this</string>
+			<string>variable.language.this,support.variable.object,support.variable.dom</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
