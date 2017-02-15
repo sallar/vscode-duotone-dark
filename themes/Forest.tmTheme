@@ -340,7 +340,7 @@
 			<key>name</key>
 			<string>CSS Property</string>
 			<key>scope</key>
-			<string>meta.property-name</string>
+			<string>meta.property-name,support.type.property-name</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
