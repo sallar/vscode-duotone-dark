@@ -38,6 +38,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Comment in Params</string>
+			<key>scope</key>
+			<string>meta.parameters comment.block</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>__DUO3__</string>
+				<key>fontStyle</key>
+				<string> italic</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>String</string>
 			<key>scope</key>
 			<string>string</string>
@@ -325,9 +338,20 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>CSS Property</string>
+			<key>scope</key>
+			<string>meta.property-name</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>__UNO3__</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>CSS Meta</string>
 			<key>scope</key>
-			<string>meta.property-value.css</string>
+			<string>meta.property-value</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
