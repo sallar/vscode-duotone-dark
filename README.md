@@ -16,4 +16,6 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
 
 ![](https://github.com/simurai/duotone-dark-forest-syntax/raw/master/docs/screenshot.png)
 
-*More coming soon...*
+![](https://github.com/simurai/duotone-dark-sky-syntax/raw/master/docs/screenshot.png)
+
+![](https://github.com/simurai/duotone-dark-earth-syntax/raw/master/docs/screenshot.png)

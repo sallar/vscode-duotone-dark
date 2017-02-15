@@ -73,5 +73,55 @@ module.exports = {
         "UUID": "a71af099-8867-4bbd-a6da-f69871a36fca",
         "ID": "duotone_dark_forest",
         "NAME": "Forest"
+    },
+    // https://github.com/simurai/duotone-dark-sky-syntax
+    "Sky": {
+        "UNO1": "#f1ebff",
+        "UNO2": "#cab2fa",
+        "UNO3": "#ae91e8",
+        "UNO4": "#715f95",
+        "UNO5": "#544d60",
+
+        "DUO1": "#fec38f",
+        "DUO2": "#b07745",
+        "DUO3": "#765f4c",
+
+        "BACKGROUND": "#2c2734",
+        "INVISIBLES": "#443d51",
+        "LINE_HIGHLIGHT": "#342E3D",
+        "SELECTION": "#494256",
+        "INVALID": "#F8F8F0",
+        "INVALID_BG": "#F92672",
+        "DEPRECATED": "#F8F8F0",
+        "DEPRECATED_BG": "#AE81FF",
+
+        "UUID": "18c3f154-7fe6-43f0-9a88-845c10670d94",
+        "ID": "duotone_dark_sky",
+        "NAME": "Sky"
+    },
+    // https://github.com/simurai/duotone-dark-earth-syntax
+    "Earth": {
+        "UNO1": "#ffdac2",
+        "UNO2": "#bd987f",
+        "UNO3": "#98755d",
+        "UNO4": "#705e51",
+        "UNO5": "#564b43",
+
+        "DUO1": "#fecb52",
+        "DUO2": "#b09045",
+        "DUO3": "#726546",
+
+        "BACKGROUND": "#2c2826",
+        "INVISIBLES": "#48413d",
+        "LINE_HIGHLIGHT": "#35302D",
+        "SELECTION": "#4D4642",
+        "INVALID": "#F8F8F0",
+        "INVALID_BG": "#F92672",
+        "DEPRECATED": "#F8F8F0",
+        "DEPRECATED_BG": "#AE81FF",
+
+        "UUID": "a929c582-5aa3-48fb-839b-21bbbc8416b6",
+        "ID": "duotone_dark_earth",
+        "NAME": "Earth"
     }
 }
