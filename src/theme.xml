@@ -21,6 +21,12 @@
 				<string>__LINE_HIGHLIGHT__</string>
 				<key>selection</key>
 				<string>__SELECTION__</string>
+				<key>wordHighlight</key>
+				<string>__WORD_HIGHLIGHT__</string>
+				<key>wordHighlightStrong</key>
+				<string>__WORD_HIGHLIGHT_STRONG__</string>
+				<key>selectionHighlight</key>
+				<string>__SELECTION_HIGHLIGHT__</string>
 			</dict>
 		</dict>
 		<dict>

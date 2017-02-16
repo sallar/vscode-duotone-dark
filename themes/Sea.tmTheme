@@ -20,6 +20,12 @@
 				<key>lineHighlight</key>
 				<string>#232D38</string>
 				<key>selection</key>
+				<string>#4B5C6E</string>
+				<key>wordHighlight</key>
+				<string>#354454</string>
+				<key>wordHighlightStrong</key>
+				<string>#4B5C6E</string>
+				<key>selectionHighlight</key>
 				<string>#354454</string>
 			</dict>
 		</dict>
