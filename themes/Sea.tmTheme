@@ -21,6 +21,12 @@
 				<string>#232D38</string>
 				<key>selection</key>
 				<string>#354454</string>
+				<key>wordHighlight</key>
+				<string>#354454</string>
+				<key>wordHighlightStrong</key>
+				<string>#354454</string>
+				<key>selectionHighlight</key>
+				<string>#354454</string>
 			</dict>
 		</dict>
 		<dict>

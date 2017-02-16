@@ -44,6 +44,31 @@
         "label": "DuoTone Dark Earth",
         "uiTheme": "vs-dark",
         "path": "./themes/Earth.tmTheme"
+      },
+      {
+        "label": "DuoTone Dark Sea Alt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sea-Alt.tmTheme"
+      },
+      {
+        "label": "DuoTone Dark Space Alt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Space-Alt.tmTheme"
+      },
+      {
+        "label": "DuoTone Dark Forest Alt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Forest-Alt.tmTheme"
+      },
+      {
+        "label": "DuoTone Dark Sky Alt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sky-Alt.tmTheme"
+      },
+      {
+        "label": "DuoTone Dark Earth Alt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Earth-Alt.tmTheme"
       }
     ]
   },

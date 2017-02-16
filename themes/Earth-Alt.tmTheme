@@ -3,30 +3,30 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>DuoTone Dark __NAME__</string>
+	<string>DuoTone Dark Earth</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>__BACKGROUND__</string>
+				<string>#2c2826</string>
 				<key>caret</key>
-				<string>__DUO1__</string>
+				<string>#fecb52</string>
 				<key>foreground</key>
-				<string>__UNO2__</string>
+				<string>#bd987f</string>
 				<key>invisibles</key>
-				<string>__INVISIBLES__</string>
+				<string>#48413d</string>
 				<key>lineHighlight</key>
-				<string>__LINE_HIGHLIGHT__</string>
+				<string>#35302D</string>
 				<key>selection</key>
-				<string>__SELECTION__</string>
+				<string>#817770</string>
 				<key>wordHighlight</key>
-				<string>__WORD_HIGHLIGHT__</string>
+				<string>#4D4642</string>
 				<key>wordHighlightStrong</key>
-				<string>__WORD_HIGHLIGHT_STRONG__</string>
+				<string>#817770</string>
 				<key>selectionHighlight</key>
-				<string>__SELECTION_HIGHLIGHT__</string>
+				<string>#4D4642</string>
 			</dict>
 		</dict>
 		<dict>
@@ -37,7 +37,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>__UNO5__</string>
+				<string>#70655d</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -50,7 +50,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>__DUO3__</string>
+				<string>#726546</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -63,7 +63,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>__DUO1__</string>
+				<string>#fecb52</string>
 			</dict>
 		</dict>
 		<dict>
@@ -74,7 +74,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>__DUO1__</string>
+				<string>#fecb52</string>
 			</dict>
 		</dict>
 		<dict>
@@ -85,7 +85,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>__DUO1__</string>
+				<string>#fecb52</string>
 			</dict>
 		</dict>
 		<dict>
@@ -96,7 +96,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>__DUO1__</string>
+				<string>#fecb52</string>
 			</dict>
 		</dict>
 		<dict>
@@ -109,7 +109,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>__UNO2__</string>
+				<string>#bd987f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -120,7 +120,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>__DUO2__</string>
+				<string>#b09045</string>
 			</dict>
 		</dict>
 		<dict>
@@ -133,7 +133,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>__DUO2__</string>
+				<string>#b09045</string>
 			</dict>
 		</dict>
 		<dict>
@@ -146,7 +146,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>__DUO1__</string>
+				<string>#fecb52</string>
 			</dict>
 		</dict>
 		<dict>
@@ -159,7 +159,7 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>__UNO1__</string>
+				<string>#ffdac2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -172,7 +172,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>__UNO1__</string>
+				<string>#ffdac2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -185,7 +185,7 @@
 				<key>fontStyle</key>
 				<string>italic underline</string>
 				<key>foreground</key>
-				<string>__UNO1__</string>
+				<string>#ffdac2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -198,7 +198,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>__UNO1__</string>
+				<string>#ffdac2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -211,7 +211,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>__UNO3__</string>
+				<string>#98755d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -224,7 +224,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>__UNO1__</string>
+				<string>#ffdac2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -237,7 +237,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>__UNO2__</string>
+				<string>#bd987f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -250,7 +250,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>__UNO1__</string>
+				<string>#ffdac2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -263,7 +263,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>__DUO1__</string>
+				<string>#fecb52</string>
 			</dict>
 		</dict>
 		<dict>
@@ -274,7 +274,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>__UNO2__</string>
+				<string>#bd987f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -296,11 +296,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>__INVALID_BG__</string>
+				<string>#F92672</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>__INVALID__</string>
+				<string>#F8F8F0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -311,9 +311,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>__DEPRECATED_BG__</string>
+				<string>#AE81FF</string>
 				<key>foreground</key>
-				<string>__DEPRECATED__</string>
+				<string>#F8F8F0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -324,7 +324,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>__UNO5__</string>
+				<string>#70655d</string>
 				<key>background</key>
 				<string></string>
 			</dict>
@@ -339,7 +339,7 @@
 				<key>fontStyle</key>
 				<string> italic</string>
 				<key>foreground</key>
-				<string>__DUO3__</string>
+				<string>#726546</string>
 			</dict>
 		</dict>
 		<dict>
@@ -350,7 +350,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>__UNO3__</string>
+				<string>#98755d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -361,7 +361,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>__UNO5__</string>
+				<string>#70655d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -372,7 +372,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>__DUO1__</string>
+				<string>#fecb52</string>
 			</dict>
 		</dict>
 		<dict>
@@ -383,7 +383,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>__DUO1__</string>
+				<string>#fecb52</string>
 			</dict>
 		</dict>
 		<dict>
@@ -394,16 +394,16 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>__UNO3__</string>
+				<string>#98755d</string>
 			</dict>
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>__UUID__</string>
+	<string>a929c582-5aa3-48fb-839b-21bbbc8416b6</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.__ID__</string>
+	<string>theme.duotone_dark_earth</string>
 	<key>author</key>
 	<string>Sallar Kaboli</string>
 </dict>
