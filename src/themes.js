@@ -5,7 +5,7 @@ module.exports = {
         "UNO2": "#88b4e7",
         "UNO3": "#5d8cc0",
         "UNO4": "#586f89",
-        "UNO5": "#444c55",
+        "UNO5": "#5e666f",
 
         "DUO1": "#34FEBB",
         "DUO2": "#32AE85",
@@ -30,7 +30,7 @@ module.exports = {
         "UNO2": "#8686cb",
         "UNO3": "#7272a1",
         "UNO4": "#5b5b7b",
-        "UNO5": "#49495a",
+        "UNO5": "#636374",
 
         "DUO1": "#fe7734",
         "DUO2": "#b06845",
@@ -55,7 +55,7 @@ module.exports = {
         "UNO2": "#a9bca9",
         "UNO3": "#869886",
         "UNO4": "#738273",
-        "UNO5": "#585f58",
+        "UNO5": "#727972",
 
         "DUO1": "#e7f98b",
         "DUO2": "#99a659",
@@ -80,7 +80,7 @@ module.exports = {
         "UNO2": "#cab2fa",
         "UNO3": "#ae91e8",
         "UNO4": "#715f95",
-        "UNO5": "#544d60",
+        "UNO5": "#6e677a",
 
         "DUO1": "#fec38f",
         "DUO2": "#b07745",
@@ -105,7 +105,7 @@ module.exports = {
         "UNO2": "#bd987f",
         "UNO3": "#98755d",
         "UNO4": "#705e51",
-        "UNO5": "#564b43",
+        "UNO5": "#70655d",
 
         "DUO1": "#fecb52",
         "DUO2": "#b09045",
