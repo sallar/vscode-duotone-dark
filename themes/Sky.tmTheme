@@ -20,11 +20,11 @@
 				<key>lineHighlight</key>
 				<string>#342E3D</string>
 				<key>selection</key>
-				<string>#635C71</string>
+				<string>#494256</string>
 				<key>wordHighlight</key>
 				<string>#494256</string>
 				<key>wordHighlightStrong</key>
-				<string>#635C71</string>
+				<string>#494256</string>
 				<key>selectionHighlight</key>
 				<string>#494256</string>
 			</dict>
@@ -37,7 +37,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6e677a</string>
+				<string>#544d60</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -324,7 +324,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6e677a</string>
+				<string>#544d60</string>
 				<key>background</key>
 				<string></string>
 			</dict>
@@ -361,7 +361,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6e677a</string>
+				<string>#544d60</string>
 			</dict>
 		</dict>
 		<dict>

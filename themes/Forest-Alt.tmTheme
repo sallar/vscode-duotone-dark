@@ -3,30 +3,30 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>DuoTone Dark Space</string>
+	<string>DuoTone Dark Forest</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#24242e</string>
+				<string>#2a2d2a</string>
 				<key>caret</key>
-				<string>#fe7734</string>
+				<string>#e7f98b</string>
 				<key>foreground</key>
-				<string>#8686cb</string>
+				<string>#a9bca9</string>
 				<key>invisibles</key>
-				<string>#3a3a4a</string>
+				<string>#424842</string>
 				<key>lineHighlight</key>
-				<string>#2B2B36</string>
+				<string>#313531</string>
 				<key>selection</key>
-				<string>#3F3F4F</string>
+				<string>#6B736B</string>
 				<key>wordHighlight</key>
-				<string>#3F3F4F</string>
+				<string>#474D47</string>
 				<key>wordHighlightStrong</key>
-				<string>#3F3F4F</string>
+				<string>#6B736B</string>
 				<key>selectionHighlight</key>
-				<string>#3F3F4F</string>
+				<string>#474D47</string>
 			</dict>
 		</dict>
 		<dict>
@@ -37,7 +37,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#49495a</string>
+				<string>#727972</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -50,7 +50,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#644c40</string>
+				<string>#747a52</string>
 				<key>fontStyle</key>
 				<string> italic</string>
 			</dict>
@@ -63,7 +63,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fe7734</string>
+				<string>#e7f98b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -74,7 +74,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fe7734</string>
+				<string>#e7f98b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -85,7 +85,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fe7734</string>
+				<string>#e7f98b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -96,7 +96,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fe7734</string>
+				<string>#e7f98b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -109,7 +109,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#8686cb</string>
+				<string>#a9bca9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -120,7 +120,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b06845</string>
+				<string>#99a659</string>
 			</dict>
 		</dict>
 		<dict>
@@ -133,7 +133,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#b06845</string>
+				<string>#99a659</string>
 			</dict>
 		</dict>
 		<dict>
@@ -146,7 +146,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#fe7734</string>
+				<string>#e7f98b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -159,7 +159,7 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#bebeef</string>
+				<string>#ddf8dd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -172,7 +172,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#bebeef</string>
+				<string>#ddf8dd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -185,7 +185,7 @@
 				<key>fontStyle</key>
 				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#bebeef</string>
+				<string>#ddf8dd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -198,7 +198,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#bebeef</string>
+				<string>#ddf8dd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -211,7 +211,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#7272a1</string>
+				<string>#869886</string>
 			</dict>
 		</dict>
 		<dict>
@@ -224,7 +224,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#bebeef</string>
+				<string>#ddf8dd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -237,7 +237,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#8686cb</string>
+				<string>#a9bca9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -250,7 +250,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#bebeef</string>
+				<string>#ddf8dd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -263,7 +263,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#fe7734</string>
+				<string>#e7f98b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -274,7 +274,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8686cb</string>
+				<string>#a9bca9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -324,7 +324,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#49495a</string>
+				<string>#727972</string>
 				<key>background</key>
 				<string></string>
 			</dict>
@@ -339,7 +339,7 @@
 				<key>fontStyle</key>
 				<string> italic</string>
 				<key>foreground</key>
-				<string>#644c40</string>
+				<string>#747a52</string>
 			</dict>
 		</dict>
 		<dict>
@@ -350,7 +350,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#7272a1</string>
+				<string>#869886</string>
 			</dict>
 		</dict>
 		<dict>
@@ -361,7 +361,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#49495a</string>
+				<string>#727972</string>
 			</dict>
 		</dict>
 		<dict>
@@ -372,7 +372,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fe7734</string>
+				<string>#e7f98b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -383,7 +383,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#fe7734</string>
+				<string>#e7f98b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -394,16 +394,16 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#7272a1</string>
+				<string>#869886</string>
 			</dict>
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>D9D5E82E-3D5B-45B5-B38E-7C841C21347D</string>
+	<string>a71af099-8867-4bbd-a6da-f69871a36fca</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.duotone_dark_space</string>
+	<string>theme.duotone_dark_forest</string>
 	<key>author</key>
 	<string>Sallar Kaboli</string>
 </dict>
